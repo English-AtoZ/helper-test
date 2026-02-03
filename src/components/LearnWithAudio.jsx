@@ -78,7 +78,7 @@ const LearnWithAudio = () => {
       <div style={styles.innerWrap}>
         <div style={styles.displayArea}>
           <div style={styles.resultBox}>
-            <small>Hindi Input:</small>
+            <small>Hindi Input hai bro:</small>
             <p style={styles.hindiText}>{transcript || '...'}</p>
           </div>
 
